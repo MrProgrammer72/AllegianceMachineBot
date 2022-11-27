@@ -1,24 +1,28 @@
 {
-    "name": "AllegianceMachineBot",    
+    "name": "➤⃟≛⃝👑 𝐁𝐑𝐀𝐍𝐃𝐄𝐃🖤⃝≛ 𝗤𝗨𝗘𝗘𝗡✹⃟➖⋆͢♥⃝≛",    
     "env": {
         "BOT_TOKEN": {
-            "description": "telegram bot token here",
+            "description": "5863637434:AAHjZs_nWbV7-xFMnbXms7ll2fKprvny9nM",
             "required": true
         },        
         "MONGO_URL": {
-            "description": "mongo db url here",
+            "description": "MONGODB URL
+
+
+
+mongodb+srv://Pankajsingh:8384005852loki@cluster0.amam7qk.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "BOT_NAME": {
-            "description": "your bot name",
+            "description": "➤⃟≛⃝👑 𝐁𝐑𝐀𝐍𝐃𝐄𝐃🖤⃝≛ 𝗤𝗨𝗘𝗘𝗡✹⃟➖⋆͢♥⃝≛",
             "required":true
         },
         "API_ID": {
-            "description": "telegram api id here",
+            "description": "22737009",
             "required": true
         },
         "API_HASH": {
-            "description": "telegram api hash here",
+            "description": "049241d7262be025e7033a10d4577f00",
             "required": true
         }
     },
